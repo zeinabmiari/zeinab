@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box;}
+
+.titlemenu{display: flex; justify-content: space-between; width: 90%; margin: 40px 0 0 50px; position: absolute; top: 0;}
+
+.img img{ position: relative; width: 100%; min-height: 700px;}
+
+.aboveimg{ position: absolute; bottom: -130px; left: 150px; font-size: 75px;color: #ffffff;} 
+.menu{margin-top: 85px; background-color: white; padding: 7px; height: 72px;}
+.menu ul li{ display: inline;margin: 10px;font-size: 23px;padding: 24px;color: #032635;margin-left:1px;}
+
+#home{color: white;background-color:#032635;}
+.title h1{color: white;font-family: "miss-fajardose";font-size: 77px;} 
+.ph,.para{text-align: center;}
+
+.ph p{font-size: 20px;}
+
+.ph h2{font-size: 50px;font-family: 'Yesteryear',handwriting;}
+
+.para{font-size: 18px;line-height: 25px;}
+
+.para p{font-size: 25px;}
+
+.titleimg{text-align: center;margin-right:20px}
+.title1{font-size: 30px ;font-family:'aguafina-script'}
+.title2{font-size: 25px;}
+
+.imgs{display: flex; margin-left: 200px}
+.imgs2{display: flex; margin-left: 200px;}
+
+.img1{padding: 8px}
+.img2{padding: 8px}
+.img3{padding: 8px}
+.img4{padding: 8px}
+.img5{padding: 8px}
+.img6{padding: 8px}
+.img7{padding: 8px}
+.img8{padding: 8px}
+
+.photo{display: flex; margin-left:30px; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+
+.form{background-color:powderblue; width: 100% ; height: 600px}
+.titleform {text-align: center}
+
+.txtform {width: 50%;font-size: 25px}
+.txtform p{margin-top: -45px;}
+
+table {width: 500px ; height: 300px ; background-color: white} 
+.frm{display: flex;justify-content: space-around;margin-top: 130px}
+
+.icon { width: 100% ; height:300px ; background-color:powderblue;display: flex;justify-content: space-around}
+.myweb img {width:100% ; height:90px ;margin-top: 50px;}
+.wppi img {width:100% ; height:90px ; margin-top: 50px;}
+.topk img{width:100% ; height:90px ; margin-top: 50px;}
+
+.insta{display: flex;justify-content: center;align-items: center;width: 100% ; height: 400px;font-size: 25px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
